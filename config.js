@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['18077002608'] 
+global.owner = ['6285232604817'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
-global.numberowner = '18077002608'
-global.instagram = 'https://instagram.com/__.iam_akshay.__?igshid=YmMyMTA2M2Y='
-global.github = 'https://github.com/4K5H475ER'
-global.dana = '18077002608'
+global.nameowner = '®.KoKo•Rey'
+global.numberowner = '6285232604817'
+global.instagram = 'https://instagram.com/callme_rey1921'
+global.github = 'https://github.com/MendingSalto'
+global.dana = '085232604817'
 global.pulsa = '18077002608'
 global.gopay = '18077002608'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
+global.namebot = 'koko-Md'
 global.gc = 'https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6'
-global.web = 'https://tisudemon-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/callme_rey1921' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'koko-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 koko-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ koko-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
+global.packname = '2002'
+global.author = '®.KoKo•Rey'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
